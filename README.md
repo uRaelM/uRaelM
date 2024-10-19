@@ -28,4 +28,4 @@ Hello! I'm a front-end developer focused on performance and responsiveness, pass
 
 ## 💡 Featured Projects:
 - [Polybots.io](https://polybots.io): Web3-based project focusing on blockchain integration.
-- [Freckle.live](https://freckle.live): A live streaming platform integrated with Web3 technologies.
+- [Freckle.live](https://freckle.live): A trivia game platform integrated with Web3 technologies.
