@@ -16,7 +16,7 @@ Hello! I'm a front-end developer focused on performance and responsiveness, pass
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80" height="80"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ethereum-eth-icon.png" alt="Ethereum" width="80" height="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="Blockchain" width="80" height="80"/>
 </p>
 
 
